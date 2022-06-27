@@ -518,4 +518,11 @@ img {
 		width: 12rem;
 		height: 94px;
 	}
+	
+}
+@media (max-height: 541px)
+.btn-xl {
+    font-size: 1.5rem;
+    padding: 0.4rem 1rem;
+    text-transform: uppercase;
 }
